@@ -9,3 +9,5 @@ seaborn>=0.12.0
 matplotlib>=3.7.0
 fastai>=2.7.0
 tsai>=0.3.3
+iPython=8.38
+ipykernel=7.1.0	
